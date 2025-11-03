@@ -1,5 +1,4 @@
-# mobile_information_systems_lab1
-
+# Mobile Information Systems - Laboratory Exercise
 A new Flutter project.
 
 ## Getting Started
